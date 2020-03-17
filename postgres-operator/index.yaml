@@ -3,10 +3,10 @@ entries:
   postgres-operator:
   - apiVersion: v1
     appVersion: 1.4.1
-    created: "2020-03-17T17:43:31.261455+02:00"
+    created: "2020-03-17T18:10:17.310655+02:00"
     description: Postgres Operator creates and manages PostgreSQL clusters running
       in Kubernetes
-    digest: 75eb2ab5da98861f20e68f8678ddba72bc61a5f26edede6228f3e9a5590af931
+    digest: d1736d9336cbc0abeccbe84fbb6268a99306942b09c7e14fce9129b478c88574
     keywords:
     - postgres
     - operator
@@ -20,4 +20,4 @@ entries:
     urls:
     - https://glinters.github.io/postgres-operator/postgres-operator-1.4.1.tgz
     version: 1.4.1
-generated: "2020-03-17T17:43:31.259705+02:00"
+generated: "2020-03-17T18:10:17.307263+02:00"
